@@ -2,7 +2,7 @@
 templateKey: index-page
 title: 'Great coffee '
 image: /img/blog-index.jpg
-heading: Great coffee with a conscience
+heading: sourabh
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
